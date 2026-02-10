@@ -42,10 +42,7 @@ Built to practice core JavaScript concepts and DOM manipulation.
 1. Clone the repository  
 2. Open `index.html` in your browser  
 
----
-## Screenshot
 
-![Passenger Counter App](./screenshot.png)
 
 
 
