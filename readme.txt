@@ -1,53 +1,48 @@
-// //document.getElementById("count-el").innerText = 5
-// let myAge = 25
-// console.log(myAge)\
-// let myAge = 25
-// let humanDogRatio = 7
-// let myDogAge = myAge * humanDogRatio
-// console.log(myDogAge)
-// let bonusPoints = 50
+# 🚉 Passenger Counter App
 
-// bonusPoints = bonusPoints + 20
-// console.log(bonusPoints)
+## What the project is
+A simple web application that counts and saves the number of people entering a location.  
+Built to practice core JavaScript concepts and DOM manipulation.
 
-// let count = 5
-// console.log(count)
-// function increment() {
-//     console.log("The button was clicked")
-// }
+---
+
+## Tech Stack
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## Features
+- Increment passenger count
+- Save previous entries
+- Reset count after saving
+- Simple and clean user interface
+- Background image styling
+
+---
+
+## The Process
+- Created basic HTML structure
+- Styled the layout using CSS
+- Used JavaScript to handle button clicks and update the DOM
+- Implemented save functionality to track previous entries
+
+---
+
+## What I Learned
+- DOM manipulation using `getElementById`
+- Updating content with `innerText` and `textContent`
+- Writing reusable JavaScript functions
+- Connecting HTML, CSS, and JavaScript files
+
+---
+
+## How to Run It
+1. Clone the repository  
+2. Open `index.html` in your browser  
+
+---
 
 
-//  function myLogger() {
-//     console.log(42)
-//  }
 
-//  myLogger()
-//let variable are blocked scoped bevause they are defined within a function
-// function myBook() {
-//     let message = "Hello World"
-//     console.log(message)
-// }
-
-//functiondd
-// let lap1 = 34
-// let lap2 = 33   
-// let lap3 = 36
-
-// function totalLapTime() {
-//     let totalTime = lap1 + lap2 + lap3
-//     console.log(totalTime)
-// }
-
-// totalLapTime()
-
-let lapsCompleted = 0 
-
-function increment() {
-    lapsCompleted = lapsCompleted + 1
-    
-}
-increment()
-increment()
-increment()
-
-console.log(lapsCompleted)
