@@ -45,7 +45,8 @@ Built to practice core JavaScript concepts and DOM manipulation.
 ---
 ## Screenshot
 
-![Passenger Counter App](./Screenshot%202026-02-10%20at%2014.55.22.png)
+![Passenger Counter App](./screenshot.png)
+
 
 
 
