@@ -43,6 +43,6 @@ Built to practice core JavaScript concepts and DOM manipulation.
 2. Open `index.html` in your browser  
 
 ---
-
+https://github.com/vishnupriya-shisode/passenger-counter-app/blob/main/Screenshot%202026-02-10%20at%2014.55.22.png
 
 
